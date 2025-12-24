@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 DSA(C++)- | Data Structures & Algorithms in C++
+## 🚀 DSA(C++) 
 
 > A **power-packed C++ DSA repository** built for **strong fundamentals**, **sharp logic**, and **interview dominance**.
 

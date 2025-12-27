@@ -38,69 +38,68 @@ Each topic is organized **folder-wise** with well-commented code and increasing 
 
 ---
 
-<h2 style="color:#6366F1;">🧠 Topics I Will Cover (DSA in C++)</h2>
+<h2 style="color:#6366F1;">🧠 Topics I’ll Master (DSA in C++)</h2>
 
-### 🔹 Basics & Foundations
-- Time & Space Complexity  
-- Input / Output optimization  
-- C++ STL (Vectors, Maps, Sets, Queues, Stacks)  
+### ⚡ Foundations
+⏱ Time & Space Complexity  
+⚙️ Fast Input / Output  
+📦 C++ STL (Vector, Map, Set, Stack, Queue)
 
-### 🔹 Arrays & Strings
-- Array manipulation techniques  
-- Sliding window  
-- Two pointer approach  
-- String parsing & pattern problems  
+### 📊 Arrays & Strings
+🧩 Array manipulation  
+🪟 Sliding Window  
+👆 Two Pointers  
+🔤 String patterns & parsing  
 
-### 🔹 Searching & Sorting
-- Linear & Binary Search  
-- Merge Sort, Quick Sort, Heap Sort  
-- Searching in rotated arrays  
-- Custom comparator techniques  
+### 🔍 Searching & Sorting
+🔎 Linear & Binary Search  
+📈 Merge | Quick | Heap Sort  
+🔄 Rotated array search  
+🧠 Custom comparators  
 
-### 🔹 Recursion & Backtracking
-- Recursive thinking patterns  
-- Backtracking problems  
-- Subsets, permutations, combinations  
-- Divide & conquer strategies  
+### ♻️ Recursion & Backtracking
+🧠 Recursive thinking  
+🔁 Backtracking techniques  
+🔢 Subsets & permutations  
+⚔️ Divide & Conquer  
 
-### 🔹 Linked List
-- Singly & Doubly Linked Lists  
-- Fast & slow pointer techniques  
-- Cycle detection  
-- Reversal & merging problems  
+### 🔗 Linked Lists
+🔹 Singly & Doubly LL  
+🐢 Fast–Slow pointers  
+🔁 Cycle detection  
+🔄 Reverse & merge  
 
-### 🔹 Stack & Queue
-- Stack implementation & applications  
-- Monotonic stack  
-- Queue & Deque problems  
-- Expression evaluation  
+### 📚 Stack & Queue
+📌 Stack applications  
+📉 Monotonic Stack  
+🚶 Queue & Deque  
+🧮 Expression evaluation  
 
-### 🔹 Trees
-- Binary Trees & Binary Search Trees  
-- Tree traversals (DFS, BFS)  
-- Lowest Common Ancestor  
-- Tree diameter & height problems  
+### 🌳 Trees
+🌲 Binary Tree & BST  
+🔍 DFS & BFS  
+📍 LCA problems  
+📏 Height & Diameter  
 
-### 🔹 Graphs
-- Graph representation  
-- BFS & DFS  
-- Shortest path algorithms  
-- Cycle detection  
-- Topological sorting  
+### 🌐 Graphs
+🗺 Graph representation  
+🚀 BFS & DFS  
+📍 Shortest paths  
+🔁 Cycle detection  
+📤 Topological sort  
 
-### 🔹 Dynamic Programming
-- Memoization & Tabulation  
-- 1D & 2D DP  
-- Knapsack patterns  
-- DP on strings & trees  
+### 🧮 Dynamic Programming
+💾 Memoization  
+📊 Tabulation  
+🎒 Knapsack patterns  
+🧵 DP on strings & trees  
 
-### 🔹 Practice & Interview Problems
-- Topic-wise practice problems  
-- Mixed DSA questions  
-- Company-style interview problems  
+### 🏆 Practice & Interviews
+🎯 Topic-wise practice  
+🧠 Mixed DSA problems  
+🏢 Company-style questions  
 
 ---
-
 <h2 style="color:#10B981;">🛠️ Tech Stack</h2>
 
 <p align="center">

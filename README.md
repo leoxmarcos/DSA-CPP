@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:7C3AED&height=6"/>
 </p>
 
----
+ 
 
 ## 🪻DSA in C++
 
@@ -126,13 +126,12 @@
 </tr>
 </table>
 
----
+ 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:7C3AED&height=6"/>
 </p>
 
----
 
 ## 🛠️ Tech Stack
 

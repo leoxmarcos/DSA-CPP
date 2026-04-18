@@ -17,11 +17,120 @@
 </p>
 
 ---
+ 
 
-## 🧠 Topics
+## 🧠Topics I’ll Master (DSA in C++)
 
-⚡ Foundations • 📊 Arrays • 🔍 Searching • ♻️ Recursion  
-🔗 Linked List • 📚 Stack/Queue • 🌳 Trees • 🌐 Graphs • 🧮 DP  
+<table align="center">
+<tr>
+<td width="50%">
+
+### ⚡ Foundations  
+⏱ Time & Space Complexity  
+⚙️ Fast I/O  
+📦 C++ STL  
+
+</td>
+<td width="50%">
+
+### 📊 Arrays & Strings  
+🧩 Arrays  
+🪟 Sliding Window  
+👆 Two Pointers  
+🔤 Strings  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔍 Searching & Sorting  
+🔎 Binary Search  
+📈 Merge • Quick • Heap  
+🔄 Rotations  
+🧠 Comparators  
+
+</td>
+<td width="50%">
+
+### ♻️ Recursion & Backtracking  
+🧠 Recursion  
+🔁 Backtracking  
+🔢 Subsets  
+⚔️ Divide & Conquer  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔗 Linked Lists  
+🔹 Singly & Doubly  
+🐢 Fast–Slow  
+🔁 Cycle Detection  
+🔄 Reverse  
+
+</td>
+<td width="50%">
+
+### 📚 Stack & Queue  
+📌 Stack  
+📉 Monotonic Stack  
+🚶 Queue & Deque  
+🧮 Expression Eval  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌳 Trees  
+🌲 Binary Tree & BST  
+🔍 DFS & BFS  
+📍 LCA  
+📏 Height & Diameter  
+
+</td>
+<td width="50%">
+
+### 🌐 Graphs  
+🗺 Representation  
+🚀 BFS & DFS  
+📍 Shortest Path  
+📤 Topological Sort  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧮 Dynamic Programming  
+💾 Memoization  
+📊 Tabulation  
+🎒 Knapsack  
+🧵 DP Patterns  
+
+</td>
+<td width="50%">
+
+### 🏆 Practice  
+🎯 Topic-wise  
+🧠 Mixed Problems  
+🏢 Interview Prep  
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:7C3AED&height=6"/>
+</p>
 
 ---
 

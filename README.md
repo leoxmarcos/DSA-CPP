@@ -137,7 +137,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=7C3AED"/>
-  <img src="https://img.shields.io/badge/G%2B%2B-0A0A0A?style=for-the-badge&logoColor=A78BFA"/>
   <img src="https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=7C3AED"/>
   <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=C084FC"/>
 </p>

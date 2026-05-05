@@ -1,130 +1,153 @@
-<!-- ============================== -->
-<!-- 🌌 ANIMATED HERO BANNER -->
+<!-- 🌌 HERO -->
 
-<h1 align="center" style="color:#1E3A8A;">🚀 DSA in C++</h1>
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=38&pause=1200&color=00E5FF&center=true&vCenter=true&width=1100&height=95&lines=DSA+in+C%2B%2B;Crack+DSA+with+Logic;From+Foundations+to+Advanced;Consistency+%7C+Discipline+%7C+Growth"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=34&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=🚀+DSA+in+C%2B%2B;Think+%7C+Optimize+%7C+Crack+DSA" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:1E3A8A&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:7C3AED&height=6"/>
 </p>
 
----
+ 
 
-
-<p align="center">
-  <b>Enhancing Data Structures & Algorithms using modern C++ with a strong focus on logic, optimization, and interview preparation.</b>
-</p>
+## 🪻DSA in C++
 
 <p align="center">
-  <i>“DSA is not about memorizing solutions — it’s about training your brain to think.”</i>
+  <b>Mastering DSA with modern C++ — focused on logic, optimization & interview prep.</b>
 </p>
 
 ---
+ 
 
-<h2 style="color:#0EA5E9;">📘 About This Repository</h2>
+## 🧠Topics I’ll Master (DSA in C++)
 
-This repository is a **structured learning journey for mastering DSA using C++**.  
-It is designed to:
-- Build **strong problem-solving fundamentals**
-- Improve **algorithmic thinking**
-- Write **optimized and clean C++ code**
-- Progress from **basic concepts to advanced topics**
-- Prepare effectively for **coding interviews & competitive programming**
+<table align="center">
+<tr>
+<td width="50%">
 
-Each topic is organized **folder-wise** with well-commented code and increasing difficulty.
-
----
-
-<h2 style="color:#6366F1;">🧠 Topics I’ll Master (DSA in C++)</h2>
-
-### ⚡ Foundations
+### ⚡ Foundations  
 ⏱ Time & Space Complexity  
-⚙️ Fast Input / Output  
-📦 C++ STL (Vector, Map, Set, Stack, Queue)
+⚙️ Fast I/O  
+📦 C++ STL  
 
-### 📊 Arrays & Strings
-🧩 Array manipulation  
+</td>
+<td width="50%">
+
+### 📊 Arrays & Strings  
+🧩 Arrays  
 🪟 Sliding Window  
 👆 Two Pointers  
-🔤 String patterns & parsing  
+🔤 Strings  
 
-### 🔍 Searching & Sorting
-🔎 Linear & Binary Search  
-📈 Merge | Quick | Heap Sort  
-🔄 Rotated array search  
-🧠 Custom comparators  
+</td>
+</tr>
 
-### ♻️ Recursion & Backtracking
-🧠 Recursive thinking  
-🔁 Backtracking techniques  
-🔢 Subsets & permutations  
+<tr>
+<td width="50%">
+
+### 🔍 Searching & Sorting  
+🔎 Binary Search  
+📈 Merge • Quick • Heap  
+🔄 Rotations  
+🧠 Comparators  
+
+</td>
+<td width="50%">
+
+### ♻️ Recursion & Backtracking  
+🧠 Recursion  
+🔁 Backtracking  
+🔢 Subsets  
 ⚔️ Divide & Conquer  
 
-### 🔗 Linked Lists
-🔹 Singly & Doubly LL  
-🐢 Fast–Slow pointers  
-🔁 Cycle detection  
-🔄 Reverse & merge  
+</td>
+</tr>
 
-### 📚 Stack & Queue
-📌 Stack applications  
+<tr>
+<td width="50%">
+
+### 🔗 Linked Lists  
+🔹 Singly & Doubly  
+🐢 Fast–Slow  
+🔁 Cycle Detection  
+🔄 Reverse  
+
+</td>
+<td width="50%">
+
+### 📚 Stack & Queue  
+📌 Stack  
 📉 Monotonic Stack  
 🚶 Queue & Deque  
-🧮 Expression evaluation  
+🧮 Expression Eval  
 
-### 🌳 Trees
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌳 Trees  
 🌲 Binary Tree & BST  
 🔍 DFS & BFS  
-📍 LCA problems  
+📍 LCA  
 📏 Height & Diameter  
 
-### 🌐 Graphs
-🗺 Graph representation  
-🚀 BFS & DFS  
-📍 Shortest paths  
-🔁 Cycle detection  
-📤 Topological sort  
+</td>
+<td width="50%">
 
-### 🧮 Dynamic Programming
+### 🌐 Graphs  
+🗺 Representation  
+🚀 BFS & DFS  
+📍 Shortest Path  
+📤 Topological Sort  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧮 Dynamic Programming  
 💾 Memoization  
 📊 Tabulation  
-🎒 Knapsack patterns  
-🧵 DP on strings & trees  
+🎒 Knapsack  
+🧵 DP Patterns  
 
-### 🏆 Practice & Interviews
-🎯 Topic-wise practice  
-🧠 Mixed DSA problems  
-🏢 Company-style questions  
+</td>
+<td width="50%">
 
----
-<h2 style="color:#10B981;">🛠️ Tech Stack</h2>
+### 🏆 Practice  
+🎯 Topic-wise  
+🧠 Mixed Problems  
+🏢 Interview Prep  
+
+</td>
+</tr>
+</table>
+
+ 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus"/>
-  <img src="https://img.shields.io/badge/Compiler-G%2B%2B-2C2D72?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IDE-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:7C3AED&height=6"/>
+</p>
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=7C3AED"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=7C3AED"/>
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=C084FC"/>
 </p>
 
 ---
 
-<h2 style="color:#F97316;">📂 Repository Structure</h2>
+## 📂 Structure
 
 ```bash
 DSAC-/
-├── Arrays/
-├── Strings/
-├── Searching/
-├── Sorting/
-├── Recursion/
-├── Linked_List/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graphs/
-├── Dynamic_Programming/
-└── Practice_Problems/
+├── Arrays/  ├── Strings/  ├── Searching/
+├── Sorting/ ├── Recursion/ ├── Linked_List/
+├── Stack/   ├── Queue/    ├── Trees/
+├── Graphs/  ├── DP/       └── Practice/

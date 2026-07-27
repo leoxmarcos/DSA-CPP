@@ -1,3 +1,5 @@
+Pointers relatioship with arry
+
 #include<iostream>
 using namespace std;
 

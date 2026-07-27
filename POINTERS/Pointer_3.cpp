@@ -1,3 +1,5 @@
+Pointer with character Array and Function
+
 #include<iostream>
 using namespace std;
 

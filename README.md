@@ -1,34 +1,49 @@
 <!-- ============================== -->
 <!--            HERO                -->
 <!-- ============================== -->
+<!-- ========================================= -->
+<!--                HERO SECTION                -->
+<!-- ========================================= -->
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=🚀+DSA+in+C%2B%2B;💜+Think+%7C+Code+%7C+Optimize;🏆+Master+Data+Structures+%26+Algorithms" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050505,35:2E1065,70:6D28D9,100:A855F7&text=DSA%20IN%20C%2B%2B&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Master%20Data%20Structures%20%26%20Algorithms%20with%20Modern%20C%2B%2B&descAlign=50&descAlignY=60&descSize=20&section=header"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DSA%20IN%20C%2B%2B&fontAlign=50&fontAlignY=38&fontColor=ffffff&color=0:0A0A0A,50:3B0764,100:A855F7"/>
+<img width="95%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=1200&lines=🚀+Master+Data+Structures+%26+Algorithms;💜+Think+•+Code+•+Optimize+•+Repeat;⚡+Modern+C%2B%2B+%7C+Interview+Preparation+%7C+Competitive+Programming;🏆+One+Repository+for+Your+Entire+DSA+Journey"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:050505,50:6D28D9,100:C084FC"/>
 
 </p>
 
 ---
 
-<p align="center">
+# 🪻 About This Repository
 
-# 🪻 Mastering Data Structures & Algorithms in C++
+Welcome to my **Data Structures & Algorithms in C++** journey! 🚀
 
-💜 **Modern C++ | Interview Preparation | Competitive Programming | Problem Solving**
+This repository is a structured collection of **DSA concepts, coding patterns, and interview-focused problems** solved using **Modern C++**. It is designed to strengthen problem-solving skills, improve coding efficiency, and prepare for technical interviews and competitive programming.
 
-<img src="https://img.shields.io/badge/Made%20With-C++-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+Whether you're a beginner building strong fundamentals or an experienced programmer revising advanced topics, this repository serves as a comprehensive learning resource.
 
-<img src="https://img.shields.io/badge/Theme-Dark%20Purple-black?style=for-the-badge"/>
+---
 
-<img src="https://img.shields.io/badge/Open%20Source-❤-7C3AED?style=for-the-badge"/>
+### 🎯 What You'll Find
 
-</p>
+- 📚 Well-organized topic-wise solutions
+- 💡 Optimized C++ implementations with clean code
+- 🧠 Common interview patterns and techniques
+- ⚡ Time & Space Complexity analysis
+- 📝 Easy-to-understand explanations
+- 🏆 Practice problems from popular coding platforms
+- 🚀 Continuous updates with new questions and concepts
 
 ---
 
@@ -254,38 +269,7 @@
 
 </p>
 
----
-
-# 📂 Repository Structure
-
-```text
-📦 DSA-C++
-│
-├── 📁 01-Complexity
-├── 📁 02-STL
-├── 📁 03-Arrays
-├── 📁 04-Strings
-├── 📁 05-Searching
-├── 📁 06-Sorting
-├── 📁 07-Recursion
-├── 📁 08-Backtracking
-├── 📁 09-LinkedList
-├── 📁 10-Stack
-├── 📁 11-Queue
-├── 📁 12-Trees
-├── 📁 13-BST
-├── 📁 14-Heaps
-├── 📁 15-Graphs
-├── 📁 16-Greedy
-├── 📁 17-DynamicProgramming
-├── 📁 18-BitManipulation
-├── 📁 19-Math
-├── 📁 20-Tries
-├── 📁 21-SegmentTree
-├── 📁 22-DisjointSet
-├── 📁 23-Advanced
-└── 📁 Practice
-```
+ 
 
 ---
 

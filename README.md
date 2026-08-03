@@ -1,5 +1,11 @@
  
-
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&section=header&height=320&color=0:050505,35:3B0764,70:7C3AED,100:C084FC&text=DSA%20in%20C%2B%2B&fontSize=62&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Think%20%E2%80%A2%20Code%20%E2%80%A2%20Optimize%20%E2%80%A2%20Repeat&descAlign=50&descAlignY=62&descSize=22"
+    alt="DSA Banner"
+  />
+</p>
  
 <p align="center">
 
@@ -296,13 +302,12 @@ Whether you're a beginner building strong fundamentals or an experienced program
 | Greedy | ⬜ |
 | Bit Manipulation | ⬜ |
  
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:3B0764,100:A855F7&height=130&section=footer"/>
-
-</p>
+---
 
 <p align="center">
-
- 
-
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:050505,35:3B0764,70:7C3AED,100:C084FC&text=Happy%20Coding!&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Growing&descAlign=50&descAlignY=68&descSize=18"
+    alt="Footer Banner"
+  />
 </p>

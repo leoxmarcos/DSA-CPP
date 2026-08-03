@@ -9,7 +9,7 @@
  
 <p align="center">
 
-<img width="95%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2800&pause=1000&color=2E1065C&center=true&vCenter=true&width=1200&lines=🚀+Master+Data+Structures+%26+Algorithms;🔥+Think+•+Code+•+Optimize+•+Repeat;⚡+Modern+C%2B%2B+%7C+Interview+Preparation+%7C+Competitive+Programming;🏆+One+Repository+for+Your+Entire+DSA+Journey"/>
+<img width="95%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2800&pause=1000&color=4C1D95&center=true&vCenter=true&width=1200&lines=🚀+Master+Data+Structures+%26+Algorithms;🔥+Think+•+Code+•+Optimize+•+Repeat;⚡+Modern+C%2B%2B+%7C+Interview+Preparation+%7C+Competitive+Programming;🏆+One+Repository+for+Your+Entire+DSA+Journey"/>
 
 </p>
 

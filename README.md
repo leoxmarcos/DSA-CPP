@@ -1,16 +1,6 @@
-<!-- ============================== -->
-<!--            HERO                -->
-<!-- ============================== -->
-<!-- ========================================= -->
-<!--                HERO SECTION                -->
-<!-- ========================================= -->
+ 
 
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050505,35:2E1065,70:6D28D9,100:A855F7&text=DSA%20IN%20C%2B%2B&fontSize=58&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Master%20Data%20Structures%20%26%20Algorithms%20with%20Modern%20C%2B%2B&descAlign=50&descAlignY=60&descSize=20&section=header"/>
-
-</p>
-
+ 
 <p align="center">
 
 <img width="95%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=1200&lines=🚀+Master+Data+Structures+%26+Algorithms;💜+Think+•+Code+•+Optimize+•+Repeat;⚡+Modern+C%2B%2B+%7C+Interview+Preparation+%7C+Competitive+Programming;🏆+One+Repository+for+Your+Entire+DSA+Journey"/>
@@ -305,18 +295,7 @@ Whether you're a beginner building strong fundamentals or an experienced program
 | DP | ⬜ |
 | Greedy | ⬜ |
 | Bit Manipulation | ⬜ |
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=A855F7&line=C084FC&point=ffffff&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
+ 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:3B0764,100:A855F7&height=130&section=footer"/>
 
@@ -324,6 +303,6 @@ Whether you're a beginner building strong fundamentals or an experienced program
 
 <p align="center">
 
-### 💜 Happy Coding • Keep Solving • Keep Growing 💜
+ 
 
 </p>

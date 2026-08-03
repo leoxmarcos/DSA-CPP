@@ -41,7 +41,24 @@ Whether you're a beginner building strong fundamentals or an experienced program
 - 🏆 Practice problems from popular coding platforms
 - 🚀 Continuous updates with new questions and concepts
 
+
+
+
 ---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,vscode,git,github"/>
+
+</p>
+
+---
+
+
+
+
 
 # 🌌 Roadmap
 
@@ -255,15 +272,7 @@ Whether you're a beginner building strong fundamentals or an experienced program
 
 </table>
 
----
 
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,vscode,git,github"/>
-
-</p>
 
  
 
@@ -287,22 +296,7 @@ Whether you're a beginner building strong fundamentals or an experienced program
 
 ---
 
-# 📈 Progress
-
-| Topic | Status |
-|-------|--------|
-| Arrays | ⬜ |
-| Strings | ⬜ |
-| Linked List | ⬜ |
-| Stack | ⬜ |
-| Queue | ⬜ |
-| Trees | ⬜ |
-| Graphs | ⬜ |
-| DP | ⬜ |
-| Greedy | ⬜ |
-| Bit Manipulation | ⬜ |
  
----
 
 <p align="center">
   <img

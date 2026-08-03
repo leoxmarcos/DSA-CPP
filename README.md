@@ -9,7 +9,7 @@
  
 <p align="center">
 
-<img width="95%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2800&pause=1000&color=#2E1065C&center=true&vCenter=true&width=1200&lines=🚀+Master+Data+Structures+%26+Algorithms;🔥+Think+•+Code+•+Optimize+•+Repeat;⚡+Modern+C%2B%2B+%7C+Interview+Preparation+%7C+Competitive+Programming;🏆+One+Repository+for+Your+Entire+DSA+Journey"/>
+<img width="95%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2800&pause=1000&color=2E1065C&center=true&vCenter=true&width=1200&lines=🚀+Master+Data+Structures+%26+Algorithms;🔥+Think+•+Code+•+Optimize+•+Repeat;⚡+Modern+C%2B%2B+%7C+Interview+Preparation+%7C+Competitive+Programming;🏆+One+Repository+for+Your+Entire+DSA+Journey"/>
 
 </p>
 
@@ -307,7 +307,7 @@ Whether you're a beginner building strong fundamentals or an experienced program
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:050505,35:3B0764,70:7C3AED,100:C084FC&text=Happy%20Coding!&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Growing&descAlign=50&descAlignY=68&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:050505,35:3B0764,70:7C3AED,100:C084FC&text=Happy%20Coding!&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Growing&descAlign=50&descAlignY=68&descSize=18"
     alt="Footer Banner"
   />
 </p>

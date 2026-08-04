@@ -301,7 +301,7 @@ Whether you're a beginner building strong fundamentals or an experienced program
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:050505,35:3B0764,70:7C3AED,100:C084FC&text=Happy%20Coding!&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Growing&descAlign=50&descAlignY=68&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:050505,35:3B0764,70:7C3AED,100:C084FC&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Growing&descAlign=50&descAlignY=68&descSize=18"
     alt="Footer Banner"
   />
 </p>

@@ -21,7 +21,7 @@
 
 ---
 
-# 🪻 About This Repository
+# 🪻About This Repository
 
 Welcome to my **Data Structures & Algorithms in C++** journey! 🚀
 
@@ -31,7 +31,7 @@ Whether you're a beginner building strong fundamentals or an experienced program
 
 ---
 
-### 🎯 What You'll Find
+### 🎯What You'll Find
 
 - 📚 Well-organized topic-wise solutions
 - 💡 Optimized C++ implementations with clean code
@@ -46,7 +46,7 @@ Whether you're a beginner building strong fundamentals or an experienced program
 
 ---
 
-# 💻 Tech Stack
+# 💻Tech Stack
 
 <p align="center">
 
@@ -60,7 +60,7 @@ Whether you're a beginner building strong fundamentals or an experienced program
 
 
 
-# 🌌 Roadmap
+# 🌌Roadmap
 
 <table>
 
@@ -68,7 +68,7 @@ Whether you're a beginner building strong fundamentals or an experienced program
 
 <td width="50%">
 
-## ⚡ Foundations
+## ⚡Foundations
 
 ✔ Time Complexity
 
@@ -278,7 +278,7 @@ Whether you're a beginner building strong fundamentals or an experienced program
 
 ---
 
-# 🎯 Goals
+# 🎯Goals
 
 ```text
 ✅ Learn every DSA topic

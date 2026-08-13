@@ -1,18 +1,18 @@
-// #include<iostream>
-// using namespace std;
+#include<iostream>
+using namespace std;
 
-// int main()
-// {
-//     // char arr[]={'a','p','p','l','e'};
-//     // for (int i=0;i<5;i++)
-//     // cout<<arr[i];
+int main()
+{
+    char arr[]={'a','p','p','l','e'};
+    for (int i=0;i<5;i++)
+    cout<<arr[i];
 
 
-//     // char arr[10];//last place is reserve for null charater
+    char arr[10];//last place is reserve for null charater
 
-//     // cin>>arr;
-//     // arr[2]='\0';// null character at second place
-//     // cout<<arr;
+    cin>>arr;
+    arr[2]='\0';// null character at second place
+    cout<<arr;
 
 //     // string s= "Parth";
 //     // cout<<s;

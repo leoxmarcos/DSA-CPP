@@ -1,153 +1,307 @@
-<!-- 🌌 HERO -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=34&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=🚀+DSA+in+C%2B%2B;Think+%7C+Optimize+%7C+Crack+DSA" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:7C3AED&height=6"/>
-</p>
-
  
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=0:050505,35:3B0764,70:7C3AED,100:C084FC&text=DSA%20in%20C%2B%2B&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Think%20%E2%80%A2%20Code%20%E2%80%A2%20Optimize%20%E2%80%A2%20Repeat&descAlign=50&descAlignY=62&descSize=22"
+    alt="DSA Banner"
+  />
+</p>
+ 
+<p align="center">
 
-## 🪻DSA in C++
+<img width="95%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2800&pause=1000&color=4C1D95&center=true&vCenter=true&width=1200&lines=🚀+Master+Data+Structures+%26+Algorithms;🔥+Think+•+Code+•+Optimize+•+Repeat;⚡+Modern+C%2B%2B+%7C+Interview+Preparation+%7C+Competitive+Programming;🏆+One+Repository+for+Your+Entire+DSA+Journey"/>
+
+</p>
 
 <p align="center">
-  <b>Mastering DSA with modern C++ — focused on logic, optimization & interview prep.</b>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:050505,50:6D28D9,100:C084FC"/>
+
 </p>
 
 ---
- 
 
-## 🧠Topics I’ll Master (DSA in C++)
+# 🪻About This Repository
 
-<table align="center">
+Welcome to my **Data Structures & Algorithms in C++** journey! 🚀
+
+This repository is a structured collection of **DSA concepts, coding patterns, and interview-focused problems** solved using **Modern C++**. It is designed to strengthen problem-solving skills, improve coding efficiency, and prepare for technical interviews and competitive programming.
+
+Whether you're a beginner building strong fundamentals or an experienced programmer revising advanced topics, this repository serves as a comprehensive learning resource.
+
+---
+
+### 🎯What You'll Find
+
+- 📚 Well-organized topic-wise solutions
+- 💡 Optimized C++ implementations with clean code
+- 🧠 Common interview patterns and techniques
+- ⚡ Time & Space Complexity analysis
+- 📝 Easy-to-understand explanations
+- 🏆 Practice problems from popular coding platforms
+- 🚀 Continuous updates with new questions and concepts
+
+
+
+
+---
+
+# 💻Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,vscode,git,github"/>
+
+</p>
+
+---
+
+
+
+
+
+# 🌌Roadmap
+
+<table>
+
 <tr>
+
 <td width="50%">
 
-### ⚡ Foundations  
-⏱ Time & Space Complexity  
-⚙️ Fast I/O  
-📦 C++ STL  
+## ⚡Foundations
+
+✔ Time Complexity
+
+✔ Space Complexity
+
+✔ STL
+
+✔ Fast I/O
+
+✔ Prefix Sum
+
+✔ Bit Manipulation
 
 </td>
+
 <td width="50%">
 
-### 📊 Arrays & Strings  
-🧩 Arrays  
-🪟 Sliding Window  
-👆 Two Pointers  
-🔤 Strings  
+## 📊 Arrays & Strings
+
+✔ Arrays
+
+✔ Strings
+
+✔ Sliding Window
+
+✔ Two Pointers
+
+✔ Prefix/Suffix
+
+✔ Kadane
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🔍 Searching & Sorting  
-🔎 Binary Search  
-📈 Merge • Quick • Heap  
-🔄 Rotations  
-🧠 Comparators  
+<td>
+
+## 🔍 Searching & Sorting
+
+✔ Binary Search
+
+✔ Merge Sort
+
+✔ Quick Sort
+
+✔ Heap Sort
+
+✔ Custom Comparator
+
+✔ Binary Search on Answer
 
 </td>
-<td width="50%">
 
-### ♻️ Recursion & Backtracking  
-🧠 Recursion  
-🔁 Backtracking  
-🔢 Subsets  
-⚔️ Divide & Conquer  
+<td>
+
+## ♻️ Recursion
+
+✔ Recursion
+
+✔ Backtracking
+
+✔ Divide & Conquer
+
+✔ Permutations
+
+✔ Subsets
+
+✔ N Queens
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🔗 Linked Lists  
-🔹 Singly & Doubly  
-🐢 Fast–Slow  
-🔁 Cycle Detection  
-🔄 Reverse  
+<td>
+
+## 🔗 Linked Lists
+
+✔ Singly
+
+✔ Doubly
+
+✔ Circular
+
+✔ Fast & Slow Pointer
+
+✔ Reverse
+
+✔ Cycle Detection
 
 </td>
-<td width="50%">
 
-### 📚 Stack & Queue  
-📌 Stack  
-📉 Monotonic Stack  
-🚶 Queue & Deque  
-🧮 Expression Eval  
+<td>
+
+## 📚 Stack & Queue
+
+✔ Stack
+
+✔ Queue
+
+✔ Deque
+
+✔ Monotonic Stack
+
+✔ Monotonic Queue
+
+✔ Expression Evaluation
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🌳 Trees  
-🌲 Binary Tree & BST  
-🔍 DFS & BFS  
-📍 LCA  
-📏 Height & Diameter  
+<td>
+
+## 🌳 Trees
+
+✔ Binary Tree
+
+✔ BST
+
+✔ DFS
+
+✔ BFS
+
+✔ Diameter
+
+✔ LCA
+
+✔ Traversals
 
 </td>
-<td width="50%">
 
-### 🌐 Graphs  
-🗺 Representation  
-🚀 BFS & DFS  
-📍 Shortest Path  
-📤 Topological Sort  
+<td>
+
+## 🌐 Graphs
+
+✔ BFS
+
+✔ DFS
+
+✔ Topological Sort
+
+✔ Dijkstra
+
+✔ Bellman Ford
+
+✔ Floyd Warshall
+
+✔ MST
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🧮 Dynamic Programming  
-💾 Memoization  
-📊 Tabulation  
-🎒 Knapsack  
-🧵 DP Patterns  
+<td>
+
+## 💎 Dynamic Programming
+
+✔ Memoization
+
+✔ Tabulation
+
+✔ Knapsack
+
+✔ LIS
+
+✔ LCS
+
+✔ DP on Trees
+
+✔ DP on Graph
 
 </td>
-<td width="50%">
 
-### 🏆 Practice  
-🎯 Topic-wise  
-🧠 Mixed Problems  
-🏢 Interview Prep  
+<td>
+
+## 🏆 Practice
+
+✔ LeetCode
+
+✔ Codeforces
+
+✔ CodeChef
+
+✔ InterviewBit
+
+✔ Striver Sheet
+
+✔ Blind 75
 
 </td>
+
 </tr>
+
 </table>
 
+
+
  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:7C3AED&height=6"/>
-</p>
-
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=7C3AED"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=7C3AED"/>
-  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=C084FC"/>
-</p>
 
 ---
 
-## 📂 Structure
+# 🎯Goals
 
-```bash
-DSAC-/
-├── Arrays/  ├── Strings/  ├── Searching/
-├── Sorting/ ├── Recursion/ ├── Linked_List/
-├── Stack/   ├── Queue/    ├── Trees/
-├── Graphs/  ├── DP/       └── Practice/
+```text
+✅ Learn every DSA topic
+
+✅ Solve 1000+ Problems
+
+✅ Crack Product Based Companies
+
+✅ Improve Problem Solving
+
+✅ Competitive Programming
+
+✅ Master Modern C++
+```
+
+---
+
+ 
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:050505,35:3B0764,70:7C3AED,100:C084FC&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&animation=twinkling&desc=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Growing&descAlign=50&descAlignY=68&descSize=18"
+    alt="Footer Banner"
+  />
+</p>

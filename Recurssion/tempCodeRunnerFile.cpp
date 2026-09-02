@@ -1,16 +1,18 @@
-#include<iostream>
+#include <iostream>
 // using namespace std;
-
-// int sum(int arr[],int index, int n )
-// {
-//     if(index==n){
-//         return 0;
+// void rev(string &str, int start ,int end){
+//     if(start>=end){
+//         return;
 //     }
-//     return arr[index]+sum(arr,index+1,n);
-// }
+//     char c=str[start];
+//     str[start]=str[end];
+//     str[end]=c;
+//     rev(str,start+1,end-1);
 
-// int main()
-// {
-//     int arr[]={3,4,1,2,8};
-//     cout<<sum(arr,0,5);
+
+// }
+// int main(){
+//     string str ="Parth";
+//     rev(str,0,4);
+//     cout<<str<<endl;
 // }
